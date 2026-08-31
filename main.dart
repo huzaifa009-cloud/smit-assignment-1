@@ -1,4 +1,5 @@
 void main() {
+  print("huzaifa ka assignment no ai use");
   // Task 1: Check if its square or rectangle written by huzaifa
   int lngth = 10;
   int brdth = 5;
@@ -63,4 +64,8 @@ if (temp <10){
 if (temp <0){
   print("the weather is freezing");
   }
-}
+  
+//print("huzaifa ka assignment no ai use");
+
+
+}//huzaifa ka assigment no ai use
